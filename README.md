@@ -14,7 +14,7 @@ This e-commerce website is built using Next.js, a popular React framework, along
 ## Installation
 
 To get started with this e-commerce website, simply clone the repository and install the required dependencies using `npm install`.
-```
+```bash
 git clone https://github.com/your-username/ecommerce-website.git
 cd ecommerce-website
 npm install
@@ -25,7 +25,7 @@ npm install
 Before using the site, you will need to set up a Stripe account and add your API keys to the `.env` file. You will also need to set up your Sanity account and add your project ID and dataset name to the `.env` file.
 
 Once you have set up the necessary accounts and added your API keys and project details to the `.env` file, you can start the development server using `npm run dev`.
-```
+```bash
 npm run dev
 ```
 
